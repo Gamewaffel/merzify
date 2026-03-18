@@ -1,1 +1,13 @@
-
+torch>=2.1.0
+torchvision
+diffusers>=0.27.0
+transformers>=4.37.0
+accelerate>=0.27.0
+gradio>=4.20.0
+opencv-python
+Pillow>=10.0.0
+insightface>=0.7.3
+onnxruntime-gpu
+huggingface_hub
+controlnet-aux
+safetensors
